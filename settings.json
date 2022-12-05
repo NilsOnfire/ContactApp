@@ -1,0 +1,10 @@
+{
+    "[php]":{"editor.tabsize":2},
+    "[html]":{"editor.tabsize":2},
+    "[javascript]":{"editor.tabsize":2},
+    "files.insertFinalNewLine":true,
+    "editor.fontSize":24,
+    "editor.lineHeight":26,
+    "window.zooLevel":2
+    
+}
