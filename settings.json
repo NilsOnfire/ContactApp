@@ -5,6 +5,7 @@
     "files.insertFinalNewLine":true,
     "editor.fontSize":24,
     "editor.lineHeight":26,
-    "window.zooLevel":2
+    "window.zooLevel":2,
+    "editor.wordwrap":"on"
     
 }
